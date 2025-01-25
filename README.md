@@ -36,7 +36,7 @@ Technical Team (TT) has two distinct groups; _Learning,_ and _Project._ Learning
 
 | Course Name | Duration | Effort | Prerequisites | Our Deadline |
 |-------------|----------|--------|---------------|--------------|
-| [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) | 10 weeks | 3-9 hours per week | high school math | 1 week, until February 2 |
+| (Faster pace than One-For-All Track)[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) | 10 weeks | 3-9 hours per week | high school math | 1 week, until February 2 |
 | [5-Day Gen AI Intensive Course](https://www.kaggle.com/learn-guide/5-day-genai) | 5 days | 4-6 hours per day | [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) or equivalent experience | 1 week, until February 9 |
 | [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com/) (you can find the lecture videos from its youtube channel if 2025 versions are not uploaded yet) | 3 weeks | 2 lectures and 1 software lab per week | [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) or equivalent experience | 3 weeks, until March 2 |
 
