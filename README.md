@@ -22,7 +22,7 @@ By the end of February 16, the end of the semester holiday, different learning g
 
 This track has one goal, teaching you the programming essentials. Whether you will be a philosopher, an artist, or an FBI agent; you **must** learn algorithmic thinking.
 
-Be mindful for the _duration_ and _effort_ columns. They are merely estimate and vary for each person.
+Be mindful for the _duration_ and _effort_ columns. They are merely estimates and may vary for each person.
 
 | Course Name | Duration | Effort | Prerequisites | Our Deadline |
 |-------------|----------|--------|---------------|--------------|
