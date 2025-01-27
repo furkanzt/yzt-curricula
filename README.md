@@ -13,7 +13,7 @@ Although this document is oriented for Middle East Technical University (METU) u
 ### What Will We Do?
 
 Every curriculum has its own deadlines and tasks. 
-By the end of February 16, the end of the semester holiday, different learning groups will finalize the [Python Course](cs50.harvard.edu/python) and the [Gen AI Intensive Course.](https://www.kaggle.com/learn-guide/5-day-genai) The following content shows what will be covered by the first half of 2024–2025 spring semester.
+By the end of February 16, the end of the semester holiday, different learning groups will finalize the [Python Course](https://cs50.harvard.edu/python) and the [Gen AI Intensive Course.](https://www.kaggle.com/learn-guide/5-day-genai) The following content shows what will be covered by the first half of 2024–2025 spring semester.
 
 ### Overall Structure
 <img src="./YZT_Curricula.png" width=450>
