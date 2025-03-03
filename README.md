@@ -2,7 +2,7 @@
 
 Welcome to the YZT Curricula! YZT values your time and learning motivation. For encouraging your studies and eliminating frictions, we form various curricula to enhance your learning experience.
 
-_The deadlines are based on our starting date, January 27, 2025._
+_The deadlines are outdated currently, will be updated soon._
 
 ## Introduction
 
